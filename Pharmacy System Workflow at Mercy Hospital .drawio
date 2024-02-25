@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T16:01:33.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S1FFHh4BjV6c2X_jvzqQ" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-25T16:11:18.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J14uhQzOC-Z_NzAAutjE" version="23.1.6" type="github" pages="2">
   <diagram id="D5TdfPoUz5Am6Vt0mHvL" name="Context Drawing">
     <mxGraphModel dx="1592" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -661,6 +661,15 @@
         </mxCell>
         <mxCell id="newwIWLqWUQSdE5u2Nv5-23" value="Patient/ Prescription&amp;nbsp; Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="942.5" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8PIEBMFnG10pHBsQbhrq-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1HtGVeH6TY6uXh49nren-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="600" as="sourcePoint" />
+            <mxPoint x="964" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8PIEBMFnG10pHBsQbhrq-2" value="Alternative Drug Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="805" y="534" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

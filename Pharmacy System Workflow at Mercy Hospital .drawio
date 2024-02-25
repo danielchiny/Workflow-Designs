@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T16:11:18.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J14uhQzOC-Z_NzAAutjE" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-25T16:31:21.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JGtHN_uaMQQ4GnA7sR8g" version="23.1.6" type="github" pages="2">
   <diagram id="D5TdfPoUz5Am6Vt0mHvL" name="Context Drawing">
     <mxGraphModel dx="1592" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
         <mxCell id="EBD7aDAjaYQaZ3vh4tLw-8" value="D4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EBD7aDAjaYQaZ3vh4tLw-5">
           <mxGeometry x="-26" y="20" width="45" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EBD7aDAjaYQaZ3vh4tLw-9" value="Ordered filled file" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EBD7aDAjaYQaZ3vh4tLw-5">
+        <mxCell id="EBD7aDAjaYQaZ3vh4tLw-9" value="Patients / Order &lt;br&gt;File" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EBD7aDAjaYQaZ3vh4tLw-5">
           <mxGeometry x="29" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBD7aDAjaYQaZ3vh4tLw-23" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -608,18 +608,6 @@
             <mxPoint x="1085" y="673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBD7aDAjaYQaZ3vh4tLw-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.004;entryY=0.868;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="1HtGVeH6TY6uXh49nren-7" target="1HtGVeH6TY6uXh49nren-85">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="499" as="sourcePoint" />
-            <mxPoint x="849" y="644" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="609" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EBD7aDAjaYQaZ3vh4tLw-60" value="Alternative Drug prescribed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="366" y="622" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EBD7aDAjaYQaZ3vh4tLw-65" value="Patient&#39;s/Prescription&lt;br&gt;&amp;nbsp;Details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1070" y="284" width="60" height="30" as="geometry" />
         </mxCell>
@@ -668,8 +656,11 @@
             <mxPoint x="964" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PIEBMFnG10pHBsQbhrq-2" value="Alternative Drug Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8PIEBMFnG10pHBsQbhrq-2" value="Alternative Drug Prescribed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="534" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8PIEBMFnG10pHBsQbhrq-3" value="Order Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="850" y="287" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
